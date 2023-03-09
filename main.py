@@ -160,7 +160,8 @@ if not uploaded:
             st.dataframe(func.stratifiedView(df, groupings, column_with_na), use_container_width=True)
 
 
-
+st.write("#")
+st.write("Made by [Alessandro Ciocchetti](https://www.linkedin.com/in/ac-palealex/))
 
 
 
