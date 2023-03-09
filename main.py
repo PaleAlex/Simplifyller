@@ -162,6 +162,7 @@ if not uploaded:
 
 st.write("#")
 st.write("Made by [Alessandro Ciocchetti](https://www.linkedin.com/in/ac-palealex/)")
+st.write("[Github repo](https://github.com/PaleAlex/Simplifyller)")
 
 
 
